@@ -52,6 +52,13 @@ Now, you'll want a local copy of this repo. You can make that with the commands:
 ### Prerequisites
 First off, you'll need to do some pre-deploy setup.  That's all detailed [here](https://github.com/cloud-partners/oci-prerequisites).
 
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/57708209/190422929-9f9ba8ff-a22b-4695-9d6e-4542a91b3367.png">
+
+<img width="740" alt="image" src="https://user-images.githubusercontent.com/57708209/190422623-cb6d0582-74b0-428b-abc9-880a39ef65d1.png">
+
+<img width="1512" alt="image" src="https://user-images.githubusercontent.com/57708209/190423139-5ac082c4-c7db-44c1-a895-8cf3774abe3b.png">
+
+
 Secondly, create a `terraform.tfvars` file and populate with the following information:
 
 ```
